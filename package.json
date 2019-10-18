@@ -1,0 +1,11 @@
+{
+    "name": "tableau-javascript-api",
+    "version": "2.3.0",
+    "description": "Tableau JavaScript API wrapped as an NPM module.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cpitzak/tableau-javascript-api"
+    },
+    "license": "MIT"
+  }
