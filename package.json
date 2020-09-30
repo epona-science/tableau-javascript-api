@@ -1,6 +1,6 @@
 {
     "name": "tableau-javascript-api",
-    "version": "2.5.1",
+    "version": "2.6.0",
     "description": "Tableau JavaScript API wrapped as an NPM module.",
     "main": "index.js",
     "repository": {
